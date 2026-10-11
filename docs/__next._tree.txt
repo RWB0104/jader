@@ -1,0 +1,4 @@
+:HL["/jader/_next/static/chunks/20c-5mqo63h28.css","style"]
+:HC["/",""]
+:HL["/jader/_next/static/chunks/0p27h4ox63gm4.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"FtTtMiaShLbvUZR6kB1wB"}
